@@ -1,2 +1,1 @@
-# AI
-Ini adalah kode untuk AI discord yang mencek bedanya sunflower dengan helipsis
+Selamat datang di repositori Saya yang menggunakan kecerdasan buatan untuk membedakan antara sunflower (Bunga Matahari) dan heliopsis. Bot ini dikembangkan dengan menggunakan Python dan Discord API, dan dilengkapi dengan model machine learning untuk pengenalan visual.
